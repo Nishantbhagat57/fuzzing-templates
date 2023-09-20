@@ -19,6 +19,8 @@ http:
         - '/..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252fwinnt/win.ini'
         - '/..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c../windows/win.ini'
         - '/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c../windows/win.ini'
+        - '/..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini'
+        - '/..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%afwindows/win.ini'
         - '\WINDOWS\win.ini'
         - '\WINDOWS\win.ini'
         - '\WINDOWS\win.ini%00'
